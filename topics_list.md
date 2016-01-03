@@ -52,7 +52,7 @@ unsupervised learning *learns features*. Unsupervised hence helps supervised.
 ### What, When, and Where will be the MSAIL Tutorial Series, Winter 2016?
 Aaron and Samuel will...
 **Question**
-Hmm, yeah, so is Wednesday 7-8pm finalized? (would work for Sam; he'll be late.)
+Hmm, yeah, so is Tuesday 5:30-7pm finalized? (would work for Sam; he will no longer be late.)
 Is 50 minutes optimal? I'd guess a bit longer would be better, but I don't know.
 *(end of Question)*
 
