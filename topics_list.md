@@ -56,23 +56,23 @@ I'm not an expert on any topic; I'd slice them up this way:
 *(end of Question)*
 
 We'll meet once a week for 15 weeks. Tentative topics:
-0.   What is Unsupervised Learning?
-     Clustering. Problem & Example.
-1.   Clustering. k-means. *Expectation-Maximization*. Gaussian Mixtures.
-2.   Clustering. Dirichlet Processes. *Markov Chain Monte Carlo*.
-3.   Neat Example: A Recommender System (as in Ng's Coursera course)
-4.   Dimension Reduction. Principal and Independent Component Analyses.
-5.   Dimension Reduction: Nonlinear. *Kernel Trick*. Kernel PCA.
-     Isomap. Locally Linear Embedding. Self-Organizing Maps.
-6.   <Buffer in case 5. is too long, etc.>
-7.   Feature-Finding. *Autoencoders*. Neural Net Auto-encoders.
-8.   Feature-Finding. Restricted Boltzmann Machines.
-9.   Feature-Finding. Deep Belief Networks.
-10.  Time Series. Kalman Filter. *Belief Propagation*.
-11.  Time Series/Graphical Models: Hidden Markov Models
-12.  Graphical Models: Inference and Sampling.
-13.  Graphical Models: Learning Structure
-14.  Neat Example: Grammar Induction
+	0.   What is Unsupervised Learning?
+	     Clustering. Problem & Example.
+	1.   Clustering. k-means. *Expectation-Maximization*. Gaussian Mixtures.
+	2.   Clustering. Dirichlet Processes. *Markov Chain Monte Carlo*.
+	3.   Neat Example: A Recommender System (as in Ng's Coursera course)
+	4.   Dimension Reduction. Principal and Independent Component Analyses.
+	5.   Dimension Reduction: Nonlinear. *Kernel Trick*. Kernel PCA.
+	     Isomap. Locally Linear Embedding. Self-Organizing Maps.
+	6.   <Buffer in case 5. is too long, etc.>
+	7.   Feature-Finding. *Autoencoders*. Neural Net Auto-encoders.
+	8.   Feature-Finding. Restricted Boltzmann Machines.
+	9.   Feature-Finding. Deep Belief Networks.
+	10.  Time Series. Kalman Filter. *Belief Propagation*.
+	11.  Time Series/Graphical Models: Hidden Markov Models
+	12.  Graphical Models: Inference and Sampling.
+	13.  Graphical Models: Learning Structure
+	14.  Neat Example: Grammar Induction
 
 Especially general and important techniques are in *italics*.
 
