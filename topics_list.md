@@ -2,7 +2,7 @@ Topics for MSAIL Tutorial Series, Winter 2016.
 ==============================================
 
 **Question**.
-Aaron, what do you think of this plan? I'm open to any plan.
+Aaron, what do you think of the plan below? I'm open to any plan.
 
 This is the 0th iteration of what I hope will be a convergent process;
 right now it probably needs lots of modification. For example, you mentioned the
