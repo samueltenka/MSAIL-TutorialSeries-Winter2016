@@ -15,9 +15,16 @@ In other words, while supervised learning predicts labels *given features*,
 unsupervised learning *learns features*. Unsupervised hence helps supervised.
 
 ### What, When, and Where will be the MSAIL Tutorial Series, Winter 2016?
-Aaron and Samuel will
+Aaron and Samuel will...
+**Question**
+Hmm, yeah, so is Wednesday 7-8pm finalized? (would work for Sam.)
+Is 50 minutes optimal? I'd guess a bit longer would be better, but I don't know.
+*(end of Question)*
 
 ### Who is the Tutorial Series for?
+**Question**
+Who's our target audience? How much do they know, and what do they want to see?
+*(end of Question)*
 
 ### Resources
 
@@ -31,7 +38,7 @@ This is the 0th iteration of what I hope will be a convergent process;
 right now it probably needs lots of modification. For example, you mentioned the
 tutorial members are hoping for unsupervised and advanced supervised learning,
 but the topics below are all unsupervised (suggestions for supervised topics?).
-I also generated these topics by looking online, trying to maximize
+Also, I generated these topics by looking online, trying to maximize
 well-roundedness in the world of unsupervised learning; but really, we want to
 account for how well we know the topics and the quantity and quality of extant
 resources (e.g iPython notebooks).
