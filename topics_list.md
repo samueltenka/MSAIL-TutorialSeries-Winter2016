@@ -86,7 +86,7 @@ We'll meet once a week for 15 weeks. Tentative topics:
 	13.  Graphical Models: Learning Structure
 	14.  Neat Example: Grammar Induction
 
-Especially general and important techniques are in *italics*.
+Especially general and important techniques are in *snowflakes*.
 
 Locality Sensitive Hashing, Heirarchical clustering.
 
