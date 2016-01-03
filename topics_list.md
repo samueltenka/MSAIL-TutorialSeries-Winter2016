@@ -104,6 +104,7 @@ https://github.com/breze-no-salt/breze/tree/master/notebooks/unsupervised
 http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/
 * Matlab UFLDL solutions:
 https://github.com/johnny5550822/Ho-UFLDL-tutorial
+
 ### Resources: 01 Expectation Maximization. K-Means. Gaussian Mixtures.
 * k-Means (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb
@@ -111,6 +112,7 @@ https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit
 https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
 * Gaussian Mixture Models (iPython notebook)
 https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb
+
 ### Resources: 02 Dirichlet
 * Dirichlet Processes tutorial (Slides):
 http://www.cs.cmu.edu/~kbe/dp_tutorial.pdf
@@ -124,11 +126,13 @@ https://github.com/wavelets/pymc-examples
 ### Resources: 03 Recommender Systems
 * Anomaly Detection and Recommender Systems (iPython notebook):
 https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb
+
 ### Resources: 04 PCA and ICA
 * k-Means and PCA (iPython notebook):
 https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
 * Spark PCA (iPython notebook):
 http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab5-NeuroPCA.ipynb
+
 ### Resources: 05 Nonlinear Dimension Reduction
 * Kernel Trick and Nonlinear Dimension Reduction (blog w/ iPython notebook):
 Blog:
@@ -147,17 +151,20 @@ code here:
 http://deeplearning.net/tutorial/code/dA.py
 * Autoencoders and Restricted Boltzmann Machines (iPython notebook):
 http://nbviewer.ipython.org/url/www.cs.colostate.edu/~anderson/cs645/studentPresentations/Charlie-1/Charlie%20Intro%20Deep%20Learning.ipynb
+
 ### Resources: 07 Word2Vec
 * Word2Vec (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb
 * Language Exploration using Vector Space Models (iPython notebook):
 http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/LanguageVectors.ipynb
+
 ### Resources: 08 Restricted Boltzmann Machines
 **Might have to write tutorial from scratch!**
 * Hinton's Practical Guide to Training RBM's:
 http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
 * Autoencoders and Restricted Boltzmann Machines (iPython notebook):
 http://nbviewer.ipython.org/url/www.cs.colostate.edu/~anderson/cs645/studentPresentations/Charlie-1/Charlie%20Intro%20Deep%20Learning.ipynb
+
 ### Resources: 09 Deep Belief Networks
 * Deep Dream (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/deep-learning/deep-dream
@@ -166,16 +173,20 @@ https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/deep-l
 **Might have to write tutorial from scratch!**
 * Kalman Filters and Bayes Nets (a ton of iPython notebooks, organized into a textbook):
 https://github.com/wavelets/Kalman-and-Bayesian-Filters-in-Python
+
 ### Resources: 11 HMM's
 **Might have to write tutorial from scratch!**
+
 ### Resources: 12 Graphical Models: inference and sampling
 **Might have to write tutorial from scratch!**
 * Learning Graphical Model Structure (Slides)
 http://spark-university.s3.amazonaws.com/stanford-pgm/slides/Section-5-Learning-BN-Structures.pdf
 * Graphical Models, Bayes Nets:
 http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
+
 ### Resources: 13 Graphical Models: learning structure
 **Might have to write tutorial from scratch!**
+
 ### Resources: 14 Neat example: Grammar Induction
 * Grammar Induction (Survey Paper):
 http://jmlr.org/papers/volume12/glowacka11a/glowacka11a.pdf
