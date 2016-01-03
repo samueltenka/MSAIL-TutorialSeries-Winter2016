@@ -56,6 +56,7 @@ I'm not an expert on any topic; I'd slice them up this way:
 *(end of Question)*
 
 We'll meet once a week for 15 weeks. Tentative topics:
+
 	0.   What is Unsupervised Learning?
 	     Clustering. Problem & Example.
 	1.   Clustering. k-means. *Expectation-Maximization*. Gaussian Mixtures.
