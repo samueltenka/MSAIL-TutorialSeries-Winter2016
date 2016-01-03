@@ -92,9 +92,21 @@ Locality Sensitive Hashing, Heirarchical clustering.
 ### Resources: 00 Intro; K-Means
 * A nice overview of unsupervised learning:
 http://mlg.eng.cam.ac.uk/zoubin/papers/ul.pdf
+* Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial:
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+* iPython notebooks galore:
+https://github.com/donnemartin/data-science-ipython-notebooks
+* iPython notebooks (yet more!):
+https://github.com/jdwittenauer/ipython-notebooks
+* lots o' iPython notebooks **TODO:scan this repo especially carefully for gems**:
+https://github.com/breze-no-salt/breze/tree/master/notebooks/unsupervised
+* and the mother of 'em all:
+http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/
+* Matlab UFLDL solutions:
+https://github.com/johnny5550822/Ho-UFLDL-tutorial
+### Resources: 01 Expectation Maximization. K-Means. Gaussian Mixtures.
 * k-Means (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb
-### Resources: 01 Expectation Maximization. K-Means. Gaussian Mixtures.
 * k-Means and PCA (iPython notebook):
 https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
 * Gaussian Mixture Models (iPython notebook)
@@ -106,6 +118,8 @@ http://www.cs.cmu.edu/~kbe/dp_tutorial.pdf
 https://github.com/tdhopper/notes-on-dirichlet-processes
 and for application to clustering algorithms, see especially
 https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/2015-09-02-fitting-a-mixture-model.ipynb
+* PyMC Examples (iPython notebooks, I think none directly relevant to applied unsupervised ML):
+https://github.com/wavelets/pymc-examples
 
 ### Resources: 03 Recommender Systems
 * Anomaly Detection and Recommender Systems (iPython notebook):
@@ -115,7 +129,7 @@ https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb
 https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
 * Spark PCA (iPython notebook):
 http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab5-NeuroPCA.ipynb
-### Resources: 05 Clustering
+### Resources: 05 Nonlinear Dimension Reduction
 * Kernel Trick and Nonlinear Dimension Reduction (blog w/ iPython notebook):
 Blog:
 http://sebastianraschka.com/Articles/2014_kernel_pca.html
@@ -123,29 +137,50 @@ iPython Notebook:
 http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/dimensionality_reduction/projection/kernel_pca.ipynb
 
 ### Resources: 06 Autoencoders
+* Deep Autoencoder on MNIST (iPython notebook):
+https://github.com/breze-no-salt/breze/blob/master/notebooks/unsupervised/Deep%20Auto%20Encoder%20on%20MNIST.ipynb
+* Auto-encoders tutorial (blog-style):
+http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+* Denoising Autoencoders (encyclopedia-style):
+http://deeplearning.net/tutorial/dA.html
+code here:
+http://deeplearning.net/tutorial/code/dA.py
+* Autoencoders and Restricted Boltzmann Machines (iPython notebook):
+http://nbviewer.ipython.org/url/www.cs.colostate.edu/~anderson/cs645/studentPresentations/Charlie-1/Charlie%20Intro%20Deep%20Learning.ipynb
 ### Resources: 07 Word2Vec
 * Word2Vec (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb
 * Language Exploration using Vector Space Models (iPython notebook):
 http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/LanguageVectors.ipynb
 ### Resources: 08 Restricted Boltzmann Machines
+**Might have to write tutorial from scratch!**
+* Hinton's Practical Guide to Training RBM's:
+http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
+* Autoencoders and Restricted Boltzmann Machines (iPython notebook):
+http://nbviewer.ipython.org/url/www.cs.colostate.edu/~anderson/cs645/studentPresentations/Charlie-1/Charlie%20Intro%20Deep%20Learning.ipynb
 ### Resources: 09 Deep Belief Networks
 * Deep Dream (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/deep-learning/deep-dream
 
-### Resources: 10 Clustering
-### Resources: 11 Clustering
-### Resources: 12 Clustering
-### Resources: 13 Clustering
-### Resources: 14 Clustering
-
+### Resources: 10 Kalman Filter
+**Might have to write tutorial from scratch!**
+* Kalman Filters and Bayes Nets (a ton of iPython notebooks, organized into a textbook):
+https://github.com/wavelets/Kalman-and-Bayesian-Filters-in-Python
+### Resources: 11 HMM's
+**Might have to write tutorial from scratch!**
+### Resources: 12 Graphical Models: inference and sampling
+**Might have to write tutorial from scratch!**
 * Learning Graphical Model Structure (Slides)
 http://spark-university.s3.amazonaws.com/stanford-pgm/slides/Section-5-Learning-BN-Structures.pdf
 * Graphical Models, Bayes Nets:
 http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
+### Resources: 13 Graphical Models: learning structure
+**Might have to write tutorial from scratch!**
+### Resources: 14 Neat example: Grammar Induction
 * Grammar Induction (Survey Paper):
 http://jmlr.org/papers/volume12/glowacka11a/glowacka11a.pdf
 
+### Miscellaneous
 * Convolutional Neural Nets for Facial Keypoint labeling tutorial (blog w/ code)
-(**not unsupervised** but really awesome, and comes with code, dataset, etc.):
+(**not unsupervised** but really interesting, and comes with code, dataset, etc.):
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
