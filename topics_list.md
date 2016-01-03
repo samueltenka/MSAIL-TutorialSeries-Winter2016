@@ -58,10 +58,11 @@ should arrange them.
 
 I'm not an expert on any topic; I'd slice them up this way:
 
-	0           4        7  8       11           familiar enough to explain
-	   1     3     5 N/A               12        familiar, need to review
+	0           4     7     8       11           familiar enough to explain
+	   1     3     5     6             12        familiar, need to review
 	      2                    9 10       13 14  not familiar at all
 
+Also, how are unsupervised models validated?
 *(end of Question)*
 
 We'll meet once a week for 15 weeks. Tentative topics:
@@ -74,8 +75,8 @@ We'll meet once a week for 15 weeks. Tentative topics:
 	4.   Dimension Reduction. Principal and Independent Component Analyses.
 	5.   Dimension Reduction: Nonlinear. *Kernel Trick*. Kernel PCA.
 	     Isomap. Locally Linear Embedding. Self-Organizing Maps.
-	6.   <Buffer in case 5. is too long, etc.>
-	7.   Feature-Finding. *Autoencoders*. Neural Net Auto-encoders.
+	6.   Feature-Finding. *Autoencoders*. Neural Net Auto-encoders.
+	7.   Neat Example: Word2Vec.
 	8.   Feature-Finding. Restricted Boltzmann Machines.
 	9.   Feature-Finding. Deep Belief Networks.
 	10.  Time Series. Kalman Filter. *Belief Propagation*.
@@ -86,25 +87,62 @@ We'll meet once a week for 15 weeks. Tentative topics:
 
 Especially general and important techniques are in *italics*.
 
-Locality Sensitive Hashing
-Heirarchical clustering.
+Locality Sensitive Hashing, Heirarchical clustering.
 
-### Resources
+### Resources: 00 Intro; K-Means
 * A nice overview of unsupervised learning:
 http://mlg.eng.cam.ac.uk/zoubin/papers/ul.pdf
-
+* k-Means (iPython notebook):
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb
+### Resources: 01 Expectation Maximization. K-Means. Gaussian Mixtures.
+* k-Means and PCA (iPython notebook):
+https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
+* Gaussian Mixture Models (iPython notebook)
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb
+### Resources: 02 Dirichlet
 * Dirichlet Processes tutorial (Slides):
 http://www.cs.cmu.edu/~kbe/dp_tutorial.pdf
+* Direchlet Processes (iPython notebooks):
+https://github.com/tdhopper/notes-on-dirichlet-processes
+and for application to clustering algorithms, see especially
+https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/2015-09-02-fitting-a-mixture-model.ipynb
 
-* Kernel Trick and Nonlinear Dimension Reduction (blog w/ code):
+### Resources: 03 Recommender Systems
+* Anomaly Detection and Recommender Systems (iPython notebook):
+https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb
+### Resources: 04 PCA and ICA
+* k-Means and PCA (iPython notebook):
+https://github.com/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb
+* Spark PCA (iPython notebook):
+http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab5-NeuroPCA.ipynb
+### Resources: 05 Clustering
+* Kernel Trick and Nonlinear Dimension Reduction (blog w/ iPython notebook):
+Blog:
 http://sebastianraschka.com/Articles/2014_kernel_pca.html
+iPython Notebook:
+http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/dimensionality_reduction/projection/kernel_pca.ipynb
+
+### Resources: 06 Autoencoders
+### Resources: 07 Word2Vec
+* Word2Vec (iPython notebook):
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb
+* Language Exploration using Vector Space Models (iPython notebook):
+http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/LanguageVectors.ipynb
+### Resources: 08 Restricted Boltzmann Machines
+### Resources: 09 Deep Belief Networks
+* Deep Dream (iPython notebook):
+https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/deep-learning/deep-dream
+
+### Resources: 10 Clustering
+### Resources: 11 Clustering
+### Resources: 12 Clustering
+### Resources: 13 Clustering
+### Resources: 14 Clustering
 
 * Learning Graphical Model Structure (Slides)
 http://spark-university.s3.amazonaws.com/stanford-pgm/slides/Section-5-Learning-BN-Structures.pdf
-
 * Graphical Models, Bayes Nets:
 http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
-
 * Grammar Induction (Survey Paper):
 http://jmlr.org/papers/volume12/glowacka11a/glowacka11a.pdf
 
