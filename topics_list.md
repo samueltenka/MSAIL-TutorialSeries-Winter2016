@@ -51,9 +51,9 @@ should arrange them.
 
 I'm not an expert on any topic; I'd slice them up this way:
 
-`0           4        7  8       11           familiar enough to explain
-   1     3     5 N/A               12        familiar, need to review
-      2                    9 10       13 14  not familiar at all`
+	0           4        7  8       11           familiar enough to explain
+	   1     3     5 N/A               12        familiar, need to review
+	      2                    9 10       13 14  not familiar at all
 
 *(end of Question)*
 
