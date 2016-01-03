@@ -165,7 +165,7 @@ http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/La
 http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
 * Autoencoders and Restricted Boltzmann Machines (iPython notebook):
 http://nbviewer.ipython.org/url/www.cs.colostate.edu/~anderson/cs645/studentPresentations/Charlie-1/Charlie%20Intro%20Deep%20Learning.ipynb
-*RBM's (Encyclopedia-style and python code):
+* RBM's (Encyclopedia-style and python code):
 Article:
 http://deeplearning.net/tutorial/rbm.html
 Code:
@@ -174,7 +174,7 @@ http://deeplearning.net/tutorial/code/rbm.py
 ### Resources: 09 Deep Belief Networks
 * Deep Dream (iPython notebook):
 https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/deep-learning/deep-dream
-*Deep Belief Network (Encyclopedia-style and python code):
+* Deep Belief Network (Encyclopedia-style and python code):
 Article:
 http://deeplearning.net/tutorial/DBN.html
 Code:
