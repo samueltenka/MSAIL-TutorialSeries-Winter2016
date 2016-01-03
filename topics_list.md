@@ -53,7 +53,7 @@ unsupervised learning *learns features*. Unsupervised hence helps supervised.
 Aaron and Samuel will...
 **Question**
 Hmm, yeah, so is Tuesday 5:30-7pm finalized? (would work for Sam; he will no longer be late.)
-Is 50 minutes optimal? I'd guess a bit longer would be better, but I don't know.
+Is 80 minutes optimal?
 *(end of Question)*
 
 ### Who is the Tutorial Series for?
