@@ -50,9 +50,11 @@ would be useful to understand which topics are important and why, and how we
 should arrange them.
 
 I'm not an expert on any topic; I'd slice them up this way:
-0           4        7  8       11           familiar enough to explain
+
+`0           4        7  8       11           familiar enough to explain
    1     3     5 N/A               12        familiar, need to review
-      2                    9 10       13 14  not familiar at all
+      2                    9 10       13 14  not familiar at all`
+
 *(end of Question)*
 
 We'll meet once a week for 15 weeks. Tentative topics:
