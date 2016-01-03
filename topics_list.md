@@ -1,36 +1,6 @@
 Topics for MSAIL Tutorial Series, Winter 2016.
 ==============================================
 
-Summary
--------
-### What is Unsupervised Learning?
-This semester we'll focus on **unsupervised learning**, that is,
-the automatic finding of structure in un-labelled datasets. While
-supervised learning algorithms fill in missing coordinate values,
-unsupervised learning finds a useful coordinate system, that is,
-one in which the dataset's coordinate values becomes sparse and independent.
-Thus, cluster-detection, principal component analysis, dimension-reduction,
-and feature-learning in general are problems of unsupervised learning.
-In other words, while supervised learning predicts labels *given features*,
-unsupervised learning *learns features*. Unsupervised hence helps supervised.
-
-### What, When, and Where will be the MSAIL Tutorial Series, Winter 2016?
-Aaron and Samuel will...
-**Question**
-Hmm, yeah, so is Wednesday 7-8pm finalized? (would work for Sam; he'll be late.)
-Is 50 minutes optimal? I'd guess a bit longer would be better, but I don't know.
-*(end of Question)*
-
-### Who is the Tutorial Series for?
-**Question**
-Who's our target audience? How much do they know, and what do they want to see?
-*(end of Question)*
-
-### Resources
-
-Content
--------
-### Topics Outline
 **Question**.
 Aaron, what do you think of this plan? I'm open to any plan.
 
@@ -65,6 +35,37 @@ I'm not an expert on any topic; I'd slice them up this way:
 Also, how are unsupervised models validated?
 *(end of Question)*
 
+
+Summary
+-------
+### What is Unsupervised Learning?
+This semester we'll focus on **unsupervised learning**, that is,
+the automatic finding of structure in un-labelled datasets. While
+supervised learning algorithms fill in missing coordinate values,
+unsupervised learning finds a useful coordinate system, that is,
+one in which the dataset's coordinate values becomes sparse and independent.
+Thus, cluster-detection, principal component analysis, dimension-reduction,
+and feature-learning in general are problems of unsupervised learning.
+In other words, while supervised learning predicts labels *given features*,
+unsupervised learning *learns features*. Unsupervised hence helps supervised.
+
+### What, When, and Where will be the MSAIL Tutorial Series, Winter 2016?
+Aaron and Samuel will...
+**Question**
+Hmm, yeah, so is Wednesday 7-8pm finalized? (would work for Sam; he'll be late.)
+Is 50 minutes optimal? I'd guess a bit longer would be better, but I don't know.
+*(end of Question)*
+
+### Who is the Tutorial Series for?
+**Question**
+Who's our target audience? How much do they know, and what do they want to see?
+*(end of Question)*
+
+### Resources
+
+Content
+-------
+### Topics Outline
 We'll meet once a week for 15 weeks. Tentative topics:
 
 	0.   What is Unsupervised Learning?
