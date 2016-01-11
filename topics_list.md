@@ -3,12 +3,21 @@ Topics for MSAIL Tutorial Series, Winter 2016.
 
 Plan:
 
-* recap what they know from nand
+First meeting:
+
+* recap what they know from Nand
 * define unsupervised learning
 * iris dataset: kmeans
 
-Later:
-* Tutorial on Aaron's Reddit-comment-classifier
+Second meeting:
+
+* iris dataset: Gaussian Mixtures
+* 
+* 
+
+Third and beyond:
+
+* Tutorial on Aaron's Reddit-comment-classifier?
 
 **Question**.
 Aaron, what do you think of the plan below? I'm open to any plan.
