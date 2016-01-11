@@ -77,6 +77,14 @@ Content
 ### Topics Outline
 We'll meet once a week for 15 weeks. Tentative topics:
 
+        0.   What is Unsupervised Learning?
+	     Clustering. Problem & Example.
+	1.   Clustering. k-means. *Expectation-Maximization*. Gaussian Mixtures.
+	*Markov Chain Monte Carlo*.
+	4.   Dimension Reduction. Principal and Independent Component Analyses
+	7.   Neat Example: Word2Vec.
+	10.  Time Series. Kalman Filter. *Belief Propagation*.
+
 	0.   What is Unsupervised Learning?
 	     Clustering. Problem & Example.
 	1.   Clustering. k-means. *Expectation-Maximization*. Gaussian Mixtures.
