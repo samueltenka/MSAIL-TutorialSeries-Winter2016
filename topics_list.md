@@ -7,6 +7,9 @@ Plan:
 * define unsupervised learning
 * iris dataset: kmeans
 
+Later:
+* Tutorial on Aaron's Reddit-comment-classifier
+
 **Question**.
 Aaron, what do you think of the plan below? I'm open to any plan.
 
