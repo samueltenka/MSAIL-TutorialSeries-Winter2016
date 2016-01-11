@@ -2,6 +2,7 @@ Topics for MSAIL Tutorial Series, Winter 2016.
 ==============================================
 
 Plan:
+
 *recap what they know from nand
 *define unsupervised learning
 *iris dataset: kmeans
